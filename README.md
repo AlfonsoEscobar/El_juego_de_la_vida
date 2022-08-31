@@ -23,3 +23,8 @@ Una célula viva con 2 o 3 células vecinas vivas sigue viva, en otro caso muere
 
 
 Texto sacado de la Wikipedia.
+
+Para poder jugar se necesita tener Python instalado.
+Una vez tenemos python instalado, nos movemos en la consola hasta la carpeta que contiene el juego y ejecutamos
+
+'python3 ElJuegoDeLaVida.py'
